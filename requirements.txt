@@ -13,14 +13,16 @@ numpy==1.16.0
 parso==0.3.2
 pexpect==4.6.0
 pickleshare==0.7.5
-pkg-resources==0.0.0
 prompt-toolkit==2.0.8
 ptyprocess==0.6.0
 Pygments==2.3.1
 pyparsing==2.3.1
 python-dateutil==2.7.5
 pyzmq==17.1.2
+scikit-learn==0.20.3
+scipy==1.2.1
 six==1.12.0
+sklearn==0.0
 tornado==5.1.1
 traitlets==4.3.2
 wcwidth==0.1.7
